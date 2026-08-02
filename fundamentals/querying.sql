@@ -14,3 +14,5 @@ INSERT INTO cities (name, country, population) VALUES
     ('Berlin',  'DE',   3645000);
 
 -- And back out again
+SELECT name, population 
+FROM cities;
