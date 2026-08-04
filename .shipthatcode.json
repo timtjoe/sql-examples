@@ -1,38 +1,38 @@
 {
-  "course": "sql-intermediate",
+  "course": "sql-advanced",
   "language": "sql",
   "language_id": 82,
   "entrypoint": "main.sql",
   "version": 1,
-  "content_hash": "db9d838e458fd967",
+  "content_hash": "de30b859f9f76cc2",
   "lessons": [
     {
-      "slug": "subqueries",
-      "tests_hash": "5617bd78a9c9"
+      "slug": "indexes",
+      "tests_hash": "dc95200a6e66"
     },
     {
-      "slug": "ctes",
-      "tests_hash": "a8f7862ad407"
+      "slug": "recursive-ctes",
+      "tests_hash": "17daaf14adff"
     },
     {
-      "slug": "window-functions",
-      "tests_hash": "2cf7a50ec70b"
+      "slug": "window-frames",
+      "tests_hash": "a1c01f51999b"
     },
     {
-      "slug": "set-ops",
-      "tests_hash": "3a156b20584c"
+      "slug": "json",
+      "tests_hash": "e9dc3d5e919b"
     },
     {
-      "slug": "transactions",
-      "tests_hash": "52e69e311305"
+      "slug": "views",
+      "tests_hash": "d2bdb946a140"
     },
     {
-      "slug": "grouping",
-      "tests_hash": "98bb85c929a1"
+      "slug": "triggers",
+      "tests_hash": "4383f188164c"
     },
     {
-      "slug": "indexes-intro",
-      "tests_hash": "85b6d08ffbf9"
+      "slug": "explain",
+      "tests_hash": "895681cb962a"
     }
   ]
 }
